@@ -5,7 +5,7 @@
             <payloadFactory media-type="json">
                 <format>
         			{
-        				"result":"success devops"
+        				"result":"success"
         			}
         		</format>
                 <args/>
